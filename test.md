@@ -7,3 +7,5 @@
 创建了一个新的分支:creating a new branch.
 
 我创建了一个feature分支，并且完成提交，但我现在改成一样的了
+
+测试分支合并不采用fast-forward模式。使用no-ff
