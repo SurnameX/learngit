@@ -6,3 +6,4 @@
 
 创建了一个新的分支:creating a new branch.
 
+我创建了一个新的feature分支，同时我要完成提交
