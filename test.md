@@ -6,4 +6,4 @@
 
 创建了一个新的分支:creating a new branch.
 
-我创建了一个feature分支，并且完成提交
+我创建了一个feature分支，并且完成提交，但我现在改成一样的了
